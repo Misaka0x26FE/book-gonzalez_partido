@@ -4,13 +4,28 @@
 
 西班牙语→中文翻译。本书全面记述墨西哥革命制度党（PRI）从1928年创立到1999年的七十年制度史。
 
+## 原书信息
+
+| 项目 | 内容 |
+|------|------|
+| 原著名 | *El Partido de la Revolución: Institución y conflicto (1928-1999)* |
+| 作者 | Miguel González Compeán, Leonardo Lomelí Vanegas (coords.) |
+| 合作者 | Pedro Salmerón Sanginés |
+| 出版社 | Fondo de Cultura Económica |
+| 出版年 | 2000 |
+| ISBN | 968-16-6210-5 |
+| 原文语言 | 西班牙语 |
+| 源文件类型 | PDF（820页） |
+| 数字化来源 | Internet Archive（2022 年数字化） |
+
 ## 翻译信息
 
-- **源语言**: 西班牙语
-- **目标语言**: 中文
-- **原文**: *El Partido de la Revolución*, Fondo de Cultura Económica, 2000
-- **格式**: EPUB + Markdown
-- **字数**: ~60万字
+| 项目 | 内容 |
+|------|------|
+| 译者 | **马加丹汉化组** |
+| 目标语言 | 中文 |
+| 总字数 | ~61 万字 |
+| 格式 | EPUB + Markdown |
 
 ## 仓库内容
 
@@ -18,7 +33,8 @@
 |------|------|
 | `革命之党-米格尔·冈萨雷斯·孔佩安.epub` | 最终 EPUB |
 | `革命之党.md` | 合并后中文全文 |
-| `split_translated/` | 翻译分片 |
+| `split/` | 源语言分片（西班牙语，供校对与审查） |
+| `split_translated/` | 译分片 |
 | `GLOSSARY.csv` | 术语表（91条） |
 | `scripts/` | 处理脚本 |
 | `templates/` | 提示词模板 |
